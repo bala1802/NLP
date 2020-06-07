@@ -1,2 +1,2 @@
 # NLP
-NLP Proejects
+NLP Projects
